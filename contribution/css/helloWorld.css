@@ -1,0 +1,16 @@
+/*Notice that all the styles are defined within the custom hw- namespace*/
+
+.hw-center * {
+    text-align: center;
+}
+
+.hw-center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hw-text {
+    color: #000;
+    text-shadow: 3px 2px 5px #4f4f4f;
+}
